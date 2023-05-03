@@ -12,7 +12,7 @@ public class LineComparisan {
         double fX1 = 12, fX2 = 7;
         double fY1 = 7, fY2 = 9;
 
-        double sX1 = 11, sX2 = 32;
+        double sX1 = 11, sX2 = 33;
         double sY1 = 16, sY2 = 17;
 
         double fxValueOfSquare = Math.pow((fX2 - fX1), 2);
