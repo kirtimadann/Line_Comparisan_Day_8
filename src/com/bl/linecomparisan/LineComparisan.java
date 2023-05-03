@@ -5,7 +5,7 @@ public class LineComparisan {
 
         System.out.println("LINE COMPARISON CODE");
 
-        double fX1 = 6, fX2 = 7;
+        double fX1 = 6, fX2 = 5;
         double fY1 = 7, fY2 = 9;
 
         double sX1 = 15, sX2 = 31;
