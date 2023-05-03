@@ -11,9 +11,9 @@ public class LineComparisan {
         return line1.compareTo(line2);
     }
 
-    public static void main(String[] args) {
-        System.out.println("LINE COMPARISON CODE");
 
+     void linecom(){
+        System.out.println("LINE COMPARISON CODE");
         double fX1 = 2, fX2 = 4;
         double fY1 = 6, fY2 = 8;
 
@@ -47,6 +47,10 @@ public class LineComparisan {
         } else if (compareToResult == 0) {
             System.out.println("Both lines are equal");
         }
+    }
+    public static void main(String[] args) {
 
+        LineComparisan obj = new LineComparisan();
+        obj.linecom();
     }
 }
